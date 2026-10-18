@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Repositorio para o curso.dev
+Repositorio para o curso.devA
